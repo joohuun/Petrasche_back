@@ -50,6 +50,10 @@
 > - Gunicorn : Django 배포용 WSGI서버 http protocol 요청 처리 (worker : 2)   
 > - Daphne : Django 배포용 ASGI서버 WebSocket portocol 요청 처리   
 
+📌 핵심 트러블 슈팅
+###1)
+###2)
+
 
 📌 피그마
 -

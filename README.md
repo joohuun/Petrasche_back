@@ -10,13 +10,6 @@
 - 프로젝트명: 펫트라슈
 - 사이트: petrasche.com
 - 기간: 2022.07.07(목) ~ 2022.08.04(목)
-- 김주훈: 웹소켓 실시간 채팅 기능
-- 나성근: 엘라스틱 서치 검색기능
-- 이민기: 아티클, 댓글, 좋아요, 애견 월드컵
-- 엄관용: 마이페이지, 유저프로필, 펫프로필
-- 한예슬: 회원가입, 로그인(카카오API), 산책커뮤니티(카카오지도API), 팔로우
-- Frontend: https://github.com/Super-fast-decision-making/Petrasche_front
-- AI: https://github.com/Super-fast-decision-making/Petrasche_classification
 
 📌 아키텍처
 -   

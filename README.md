@@ -74,5 +74,3 @@
 
 - 마이페이지 / 프로필 / 좋아요
 ![img_13.png](/static/img_13.png)
-![img_14.png](/static/img_14.png)
-![img_15.png](/static/img_15.png)

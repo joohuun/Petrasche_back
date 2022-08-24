@@ -49,7 +49,7 @@
 > - 에러: 배포 후 http에서는 wsgi, asgi 정상 작동, https로 바꾸면서 wsgi는 작동하고 asgi는 통신을 안하는 에러 발생   
 > - 원인: 외부에서 443으로 접근할때 80번 포트로 리다이렉트 시켜주는 방식으로 구성하였는데 80번 포트에서 도메인을 연결시켜주지 않아서 443 -> 80 으로 넘어가지 못하였다.   
 > - 해결: 80번 포트에 도메인 등록 시켜주기.
-> - 코드: https://github.com/joohuun/Petrasche_back/blob/dfa374231cd39c9b53954e713b7d809d011a83aa/nginx/default.conf#L11
+> - [코드참조](https://github.com/joohuun/Petrasche_back/blob/dfa374231cd39c9b53954e713b7d809d011a83aa/nginx/default.conf#L11)
 ### 2) 배포 후 서버가 느려지는 현상
 > - 에러: 쿼리 최적화를 하였다
 

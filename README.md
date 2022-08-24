@@ -14,8 +14,10 @@
 - 이민기: 아티클, 댓글, 좋아요, 애견 월드컵
 - 엄관용: 마이페이지, 유저프로필, 펫프로필
 - 한예슬: 회원가입, 로그인(카카오API), 산책커뮤니티(카카오지도API), 팔로우
-- Petrasche_front: https://github.com/Super-fast-decision-making/Petrasche_front
-- Petrasche_classification: https://github.com/Super-fast-decision-making/Petrasche_classification
+- Frontend: https://github.com/Super-fast-decision-making/Petrasche_front
+- AI: https://github.com/Super-fast-decision-making/Petrasche_classification
+
+📌 아키텍처
 ![img_1.png](/static/img_1.png)
 
 📌 로그인/회원가입

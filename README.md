@@ -72,5 +72,5 @@
 - 실시간 채팅 
 ![img_12.png](/static/img_12.png)
 
-- 마이페이지 / 프로필 / 좋아요
+- 마이페이지
 ![img_13.png](/static/img_13.png)

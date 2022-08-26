@@ -57,9 +57,8 @@
 📌 피그마
 -
 
-- 회원가입/로그인
-- ![img_5.png](/static/img_5.png) ![img_6.png](/static/img_6.png)
-
+- 로그인
+- ![img_5.png](/static/img_5.png)
 
 - 메인페이지 / 디테일 모달
 ![img_7.png](/static/img_7.png)

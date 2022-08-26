@@ -58,10 +58,9 @@
 -
 
 - 로그인
-- ![img_5.png](/static/img_5.png)
+![img_5.png](/static/img_5.png)   
 
-
-- 메인페이지 / 디테일 모달
+- 메인페이지 / 디테일 모달   
 ![img_7.png](/static/img_7.png)
 ![img_8.png](/static/img_8.png)
 
